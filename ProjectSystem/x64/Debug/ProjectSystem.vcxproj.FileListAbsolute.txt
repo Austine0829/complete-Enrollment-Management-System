@@ -1,0 +1,12 @@
+C:\Users\Admin\source\repos\ProjectSystem\ProjectSystem\x64\Debug\ProjectSystem.vcxproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\ProjectSystem\ProjectSystem\x64\Debug\ProjectSystem.main.resources
+C:\Users\Admin\source\repos\ProjectSystem\ProjectSystem\x64\Debug\ProjectSystem.vcxproj.GenerateResource.cache
+C:\Users\Admin\source\repos\ProjectSystem\ProjectSystem\x64\Debug\ProjectSystem.academicyear.resources
+C:\Users\Admin\source\repos\ProjectSystem\ProjectSystem\x64\Debug\ProjectS.9ED7E200.Up2Date
+C:\Users\Admin\source\repos\ProjectSystem\ProjectSystem\x64\Debug\ProjectSystem.fees.resources
+C:\Users\Admin\source\repos\ProjectSystem\ProjectSystem\x64\Debug\ProjectSystem.teacher.resources
+C:\Users\Admin\source\repos\ProjectSystem\ProjectSystem\x64\Debug\ProjectSystem.section.resources
+C:\Users\Admin\source\repos\ProjectSystem\ProjectSystem\x64\Debug\ProjectSystem.student.resources
+C:\Users\Admin\source\repos\ProjectSystem\ProjectSystem\x64\Debug\ProjectSystem.enrollment.resources
+C:\Users\Admin\source\repos\ProjectSystem\ProjectSystem\x64\Debug\ProjectSystem.billing.resources
+C:\Users\Admin\source\repos\ProjectSystem\ProjectSystem\x64\Debug\ProjectSystem.login.resources
